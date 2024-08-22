@@ -1,6 +1,7 @@
 # FakeMouse
- moves mouse using rooted android. Note
- - You need to be able to "adb root", so if you are not rooted, or cant "adb root", please get root and come back.
+## Requires root!
+ Moves your mouse using a rooted android device. Note:
+ - **You need to be able to "adb root", so if you are not rooted, or cant "adb root", please get root and come back.**
 # Installation
  1. Install [This app](https://github.com/Arian04/android-hid-client)
  2. Open it, and move the touchpad a bit to make sure it works.
