@@ -8,3 +8,4 @@
  3. Run "adb root".
  4. Run adb push script.sh /data/local/tmp/script.sh
  5. Install python (if you havent already), and run test.py on your pc while connected to your rooted phone.
+ - When you reboot you will need to re-open the app and move the touchpad a bit so it can re-make all the files.
